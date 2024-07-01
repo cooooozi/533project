@@ -1,4 +1,4 @@
-# 533project
+# Supermarket Management System
 
 Our Supermaket Management System allows users to manage products, stocks, and sales. We will organized our system into two different sections, inventory_management and sales_management. The following are short descriptions of our sub-packages and functions/methods.
 
